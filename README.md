@@ -1,4 +1,4 @@
-#fbgraph-query
+# fbgraph-query
 
 Mostly, I did this to explore different tools to query the Facebook Social Graph, and understand the positively Byzantine permissions scheme.
 
